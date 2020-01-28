@@ -15,6 +15,19 @@ p {
   line-height: 2rem;
 }
 
+body {
+  background-color: black;
+  color: white;
+}
+
+img {
+  max-width: 350px;
+}
+
+.skills{
+  text-align: center;
+}
+
 .sidenav-trigger {
   color: #26a69a;
 }
